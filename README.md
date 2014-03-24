@@ -3,6 +3,9 @@ piggybank
 
 Contribution from the French Observatory to the UDF Pig Functions
 
+Usage
+=====
+
  A fixed-Binary-width file loader. 
   from org.apache.pig.piggybank.storage.FixedWidthLoader.java
   
@@ -21,7 +24,7 @@ Contribution from the French Observatory to the UDF Pig Functions
  schema than are specified in the column spec, only the fields in the schema will
  be used.
  
- A fourth argument specifie the fised length
+ A fourth argument specifie the fixed length
 
 
  Column spec idea and syntax parser borrowed from Russ Lankenau's implementation
