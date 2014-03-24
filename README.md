@@ -6,6 +6,8 @@ Contribution from the French Observatory to the UDF Pig Functions
 FixedWidthBinaryLoader.java
 ===========================
 
+it uses the new org.apache.hadoop.mapreduce.lib.input.FixedLengthInputFormat from HADOOP 2.3
+
 Usage
 =====
 
